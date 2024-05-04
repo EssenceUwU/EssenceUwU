@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/EssenceUwU/EssenceUwU/master/name.svg" alt="EssenceUwU" />
+</h1>
+
 ### Hi there 👋
 
 <!--
